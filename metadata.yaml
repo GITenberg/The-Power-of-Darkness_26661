@@ -35,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26661#The-Power-of-Darkness
 gutenberg_issued: '2008-09-20'
 gutenberg_type: Text
 identifiers:
