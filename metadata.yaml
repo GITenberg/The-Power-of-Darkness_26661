@@ -1,0 +1,50 @@
+_repo: The-Power-of-Darkness_26661
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Maude, Aylmer
+    birthdate: 1858
+    deathdate: 1938
+    gutenberg_agent_id: '4589'
+    url: http://www.gutenberg.org/2009/agents/4589
+    wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+  - agent_name: Maude, Louise
+    aliases:
+    - Maude, Louise Shanks
+    - Shanks, Louise
+    birthdate: 1855
+    deathdate: 1939
+    gutenberg_agent_id: '500'
+    url: http://www.gutenberg.org/2009/agents/500
+    wikipedia: http://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoy, Graf Leo
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2008-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian drama -- Translations into English'
+title: The Power of Darkness
+url: http://www.gutenberg.org/ebooks/26661
